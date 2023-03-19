@@ -12,7 +12,7 @@
 <h2>Contact</h2>
 <h4>Reach out to me directly through:</h4>
 
-<a href="https://www.linkedin.com/in/muneeb-shahid-0b3998251/" target="_blank">
+<a href="https://www.linkedin.com/in/muneeb--shahid/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://wa.me/923430276090/" target="_blank">
